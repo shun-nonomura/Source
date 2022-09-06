@@ -23,8 +23,8 @@ import time
 
 # 変数定義
 # ===============================================
-USER_ID = "Uff13b91191ecce3bed733b321913a92b"
-ACCESS_TOKEN = "PPu6DFSWh2lgMz8GcCUivIsIOU5z6FnYpyBXRG8unD4KWzSoDnvr60Iv0Pf3lyqGHi63kuAZiPYt7M9E9srvPGVKhslvPLGFQHIEHS/oNrLmreh2fb4+dW3mFYsRT/c+TaQiDrdLt5r3L0opQqlJJQdB04t89/1O/w1cDnyilFU="
+USER_ID = "*****"
+ACCESS_TOKEN = "*****"
 
 
 
